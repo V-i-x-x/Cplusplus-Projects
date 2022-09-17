@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\user-pc\documents\visual studio 2015\projects\keylogger\keylogger\main.cpp(151): warning C4477: 'fprintf' : format string '%ws' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'WORD *'
+c:\users\user-pc\documents\visual studio 2015\projects\keylogger\keylogger\main.cpp(189): warning C4007: 'WinMain': must be '__stdcall'
+  LINK : c:\users\user-pc\documents\visual studio 2015\Projects\Keylogger\Debug\Keylogger.exe not found or not built by the last incremental link; performing full link
+  Keylogger.vcxproj -> c:\users\user-pc\documents\visual studio 2015\Projects\Keylogger\Debug\Keylogger.exe
+  Keylogger.vcxproj -> c:\users\user-pc\documents\visual studio 2015\Projects\Keylogger\Debug\Keylogger.pdb (Full PDB)
