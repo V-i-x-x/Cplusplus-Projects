@@ -1,0 +1,6 @@
+﻿  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Offensive Security\Projects\RunPE32\RunPE32\RunPE32.cpp(177): warning C4715: 'RunPortableExecutable': not all control paths return a value
+  All 138 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RunPE32.vcxproj -> C:\Offensive Security\Projects\RunPE32\Release\RunPE32.exe
