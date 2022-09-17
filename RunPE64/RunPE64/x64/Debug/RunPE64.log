@@ -1,0 +1,6 @@
+﻿  RunPE64.cpp
+C:\Offensive Security\Projects\RunPE64\RunPE64\RunPE64.cpp(101,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'DWORD *'
+C:\Offensive Security\Projects\RunPE64\RunPE64\RunPE64.cpp(101,9): warning C4313: 'printf': '%u' in format string conflicts with argument 1 of type 'DWORD *'
+C:\Offensive Security\Projects\RunPE64\RunPE64\RunPE64.cpp(95,10): warning C4101: 'buf': unreferenced local variable
+C:\Offensive Security\Projects\RunPE64\RunPE64\RunPE64.cpp(172): warning C4715: 'RunPortableExecutable': not all control paths return a value
+  RunPE64.vcxproj -> C:\Offensive Security\Projects\RunPE64\x64\Debug\RunPE64.exe
